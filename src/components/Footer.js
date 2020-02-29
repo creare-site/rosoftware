@@ -17,10 +17,7 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; AppSeed</li>
-        <li>
-          Design: <a href="http://html5up.net">HTML5 UP</a>
-        </li>
+        <li>&copy; <a href="https://www.listafirme.ro/rosoft-business-srl-35622162/">ROSOFT BUSINESS SRL</a> - RO35622162</li>
       </ul>
     </footer>
   );

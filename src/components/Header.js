@@ -7,9 +7,12 @@ export default function Footer() {
     <header id="header">
       <h1>{config.heading}</h1>
       <p>
-      Open-Source starter coded in React, Gatsby on top of Html5 Up Eventually design.
-      <br />
-      <a href="https://github.com/app-generator/gatsby-html5up-eventually">Get Sources</a>
+        Software company focused on <strong>Research & Automation</strong> - <a href="mailto:developer@rosoftware.ro">developer@rosoftware.ro</a>
+        <br />
+        Projects:{' '}
+        <a target="_blank" rel="noopener noreferrer" href="https://appseed.us">AppSeed.us</a>{' / '}
+        <a target="_blank" rel="noopener noreferrer" href="https://websitemarket.ro">WebsiteMarket.ro</a>{' / '}  
+        <a target="_blank" rel="noopener noreferrer" href="https://invat.eu">Invat.eu</a> 
       </p>
     </header>
   );

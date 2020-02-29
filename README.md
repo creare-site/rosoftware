@@ -1,6 +1,6 @@
 # [RoSoftware](https://rosoftware.ro/)
 
-Romanian Software Company - the official website. 
+Romanian Software company focused on Research & Automation  - the official website. 
 
 <br />
 
@@ -16,16 +16,6 @@ Romanian Software Company - the official website.
 
 - eMail < **developer @ rosoftware.ro** > 
 - Access [RoSoftware.ro](https://rosoftware.ro) 
-
-<br />
-
-## How to build this app
-
-- Clone this repo `git clone https://github.com/creare-site/rosoftware.git`
-- change directory to `rosoftware`
-- `yarn` - install modules
-- `yarn start` - start for development
-- `yarn build` - build for production
 
 <br />
 
